@@ -15,14 +15,6 @@ I build decision support tools for water resources management; turning hydrologi
 
 ---
 
-### Featured Projects
-
-📊 **[FHO-Evaluation](https://github.com/tyjmadsen/fho-evaluation)** — Python/Flask tool for evaluating NWS Flood Hazard Outlook against observations. Interactive map display with verification statistics.
-
-🌊 **[NWPS-API-Viewer](https://github.com/tyjmadsen/nwps-API-viewer)** — Streamlit dashboard for exploring National Water Prediction Service hydrographs. Enables rapid scenario screening and forecast comparison.
-
----
-
 ### Tech Stack
 
 `Python` `Flask` `Streamlit` `pandas` `geopandas` `scikit-learn` `SQL` `PostgreSQL` `AWS` `ArcGIS` `Cloudflare` `DynamoDB` `Mapbox` `Kotlin` `Swift` `Node.js` 
